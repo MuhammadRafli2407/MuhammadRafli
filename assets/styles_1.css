@@ -158,8 +158,8 @@ body {
 /* Gaya untuk class-LogoShoei */
 .class-LogoShoei {
     position: absolute;
-    top: 30px; /* Jarak dari atas */
-    left: 5px; /* Jarak dari kiri */
+    top: 10px; 
+    left: 5px; 
   }
   
   /* Gaya untuk container di dalam class-LogoShoei */
